@@ -8,4 +8,4 @@
 |Должность|сотрудник|
 
 
-[Фото сотрудника]([https://bipbap.ru/wpcontent/uploads/2017/04/000f_7290754.jpg](https://funik.ru/wp-content/uploads/2018/10/17478da42271207e1d86.jpg))
+[Фото сотрудника]([https://bipbap.ru/wpcontent/uploads/2017/04/000f_7290754.jpg](https://funik.ru/wp-content/uploads/2018/10/17478da42271207e1d86.jpg)
